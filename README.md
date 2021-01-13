@@ -25,6 +25,3 @@ Here are some ideas to get you started:
 [![miya789's github stats](https://github-readme-stats.vercel.app/api?username=miya789&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miya789&show_icons=true&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 <!-- [![](https://github-profile-trophy.vercel.app/?username=miya789&rank=SECRET,SSS,SS,S,AAA,AA,A,B)](https://github.com/miya789) -->
-
-[![](https://raw.githubusercontent.com/miya789/miya789/main/profile-summary-card-output/default/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/miya789/miya789/main/profile-summary-card-output/default/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
