@@ -22,6 +22,7 @@
 ## Others
 
 ### Paper
+[![DOI:10.1109/ICMTS48187.2020.9107928](https://zenodo.org/badge/DOI/10.1109/ICMTS48187.2020.9107928.svg)](https://doi.org/10.1109/ICMTS48187.2020.9107928)
 
 ### Link
 
