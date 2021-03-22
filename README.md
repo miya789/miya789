@@ -7,6 +7,16 @@
 [![](https://img.shields.io/badge/-Qiita-000?style=flat&logo=qiita)](https://qiita.com/miya789)
 [![](https://img.shields.io/badge/-Zenn-000?style=flat&logo=zenn)](https://zenn.dev/miya789)
 
+### Skill
+![](https://img.shields.io/badge/Language-Java-007396.svg?logo=java)
+![](https://img.shields.io/badge/Language-Python-3776AB.svg?logo=python)
+![](https://img.shields.io/badge/Language-Ruby-CC342D.svg?logo=ruby)
+![](https://img.shields.io/badge/Language-Javascript-F7DF1E.svg?logo=javascript)
+![](https://img.shields.io/badge/Framework-Vue.js-4FC08D.svg?logo=vue.js)
+![](https://img.shields.io/badge/Language-Go-76E1FE.svg?logo=go)
+![](https://img.shields.io/badge/Tool-Git-F05032.svg?logo=git)
+![](https://img.shields.io/badge/Tool-Gitlab-E24329.svg?logo=gitlab)
+
 ## Education
 
 1. The University of Tokyo (April 2015 ~ March 2021)
