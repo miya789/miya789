@@ -29,11 +29,12 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miya789&show_icons=true&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 ![Profile Trophy](https://github-profile-trophy.vercel.app/?username=miya789&rank=SECRET,SSS,SS,S,AAA,AA,A,B)
 
-## Others
+## Works
 
 ### Paper
 [![DOI:10.1109/ICMTS48187.2020.9107928](https://zenodo.org/badge/DOI/10.1109/ICMTS48187.2020.9107928.svg)](https://doi.org/10.1109/ICMTS48187.2020.9107928)
 
 ### Link
 
+- https://2018.eeic.jp/programming/instructions.html
 - http://www.if.t.u-tokyo.ac.jp/
