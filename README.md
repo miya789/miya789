@@ -9,11 +9,16 @@
 
 ### Skill
 ![](https://img.shields.io/badge/Language-Java-007396.svg?logo=java)
-![](https://img.shields.io/badge/Language-Python-3776AB.svg?logo=python)
-![](https://img.shields.io/badge/Language-Ruby-CC342D.svg?logo=ruby)
+[![](https://img.shields.io/badge/Language-Python-3776AB.svg?logo=python)](https://github.com/miya789?tab=repositories&language=python)
+[![](https://img.shields.io/badge/Language-Ruby-CC342D.svg?logo=ruby)](https://github.com/miya789?tab=repositories&language=ruby)
 ![](https://img.shields.io/badge/Language-Javascript-F7DF1E.svg?logo=javascript)
 ![](https://img.shields.io/badge/Framework-Vue.js-4FC08D.svg?logo=vue.js)
-![](https://img.shields.io/badge/Language-Go-76E1FE.svg?logo=go)
+![](https://img.shields.io/badge/Language-Markdown-E24329.svg?logo=markdown)
+[![](https://img.shields.io/badge/Language-C-E24329.svg?logo=c)](https://github.com/miya789?tab=repositories&language=c)
+[![](https://img.shields.io/badge/Language-C++-E24329.svg?logo=c%2B%2B)](https://github.com/miya789?tab=repositories&language=c%2B%2B)
+[![](https://img.shields.io/badge/Language-HTML5-E24329.svg?logo=html5)](https://github.com/miya789?tab=repositories&language=html)
+![](https://img.shields.io/badge/Language-CSS-E24329.svg?logo=css3)
+[![](https://img.shields.io/badge/Language-Go-76E1FE.svg?logo=go)](https://github.com/miya789?tab=repositories&language=go)
 ![](https://img.shields.io/badge/Tool-Git-F05032.svg?logo=git)
 ![](https://img.shields.io/badge/Tool-Gitlab-E24329.svg?logo=gitlab)
 
