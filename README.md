@@ -39,6 +39,8 @@
 ### Paper
 [![DOI:10.1109/ICMTS48187.2020.9107928](https://zenodo.org/badge/DOI/10.1109/ICMTS48187.2020.9107928.svg)](https://doi.org/10.1109/ICMTS48187.2020.9107928)
 
+[![DOI:10.1109/TSM.2021.3083069](https://zenodo.org/badge/DOI/10.1109/TSM.2021.3083069.svg)](https://doi.org/10.1109/TSM.2021.3083069)
+
 ### Link
 
 - https://2018.eeic.jp/programming/instructions.html
