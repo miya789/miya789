@@ -22,11 +22,15 @@
 ![](https://img.shields.io/badge/Tool-Git-F05032.svg?logo=git)
 ![](https://img.shields.io/badge/Tool-Gitlab-E24329.svg?logo=gitlab)
 
+1. Applied Information Technology Engineer Examination (October 2019 ~ )
+2. Database Specialist Examination (October 2023 ~ )
+
 ## Education
 
 1. The University of Tokyo (April 2015 ~ March 2021)
    - Master's degree (Engineering)
      - Mita Laboratory (April 2019 ~ March 2021)
+2. Sony LSI Design Inc. (April 2021 ~ March 2022)
 
 ### Status
 
