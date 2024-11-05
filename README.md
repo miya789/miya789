@@ -3,7 +3,6 @@
 - 工事中
 
 [![](https://komarev.com/ghpvc/?username=miya789&label=PROFILE+VIEWS+🦉)](https://github.com/miya789)
-[![](https://img.shields.io/badge/-Twitter-000?style=flat&logo=twitter)](https://twitter.com/miya_789)
 [![](https://img.shields.io/badge/-Qiita-000?style=flat&logo=qiita)](https://qiita.com/miya_789)
 [![](https://img.shields.io/badge/-Zenn-000?style=flat&logo=zenn)](https://zenn.dev/miya789)
 
