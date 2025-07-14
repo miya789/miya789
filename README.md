@@ -1,6 +1,6 @@
 ## Profile
 
-- 工事中
+- 🚧工事中🚧
 
 [![](https://komarev.com/ghpvc/?username=miya789&label=PROFILE+VIEWS+🦉)](https://github.com/miya789)
 [![](https://img.shields.io/badge/-Twitter-000?style=flat&logo=twitter)](https://twitter.com/miya789_tech)
@@ -23,17 +23,22 @@
 ![](https://img.shields.io/badge/Tool-Gitlab-E24329.svg?logo=gitlab)
 
 1. [Applied Information Technology Engineer Examination](https://www.ipa.go.jp/shiken/kubun/ap.html) (October 2019 ~ )
-2. [Database Specialist Examination](https://www.ipa.go.jp/shiken/kubun/db.html) (October 2023 ~ )
+1. [Database Specialist Examination](https://www.ipa.go.jp/shiken/kubun/db.html) (October 2023 ~ )
+1. [Network Specialist Examination](https://www.ipa.go.jp/shiken/kubun/db.html) (October 2023 ~ )
+1. [Deep Learning for GENERAL](https://www.jdla.org/certificate/general/) (2025/05/10)
 
 ## Education
 
 1. The University of Tokyo (April 2015 ~ March 2021)
+   - Bachelor's degree (Engineering)
+     - [Someya Laboratory](https://www.ntech.t.u-tokyo.ac.jp/) (April 2018 ~ March 2019)
    - Master's degree (Engineering)
      - [Mita Laboratory](https://www.if.t.u-tokyo.ac.jp/) (April 2019 ~ March 2021)
 
 ## Job
 
 1. Sony LSI Design Inc. (April 2021 ~ March 2022)
+1. Sony Semiconductor Solutions Corporation (April 2022 ~ )
 
 ### Status
 
@@ -45,7 +50,6 @@
 
 ### Paper
 [![DOI:10.1109/ICMTS48187.2020.9107928](https://zenodo.org/badge/DOI/10.1109/ICMTS48187.2020.9107928.svg)](https://doi.org/10.1109/ICMTS48187.2020.9107928)
-
 [![DOI:10.1109/TSM.2021.3083069](https://zenodo.org/badge/DOI/10.1109/TSM.2021.3083069.svg)](https://doi.org/10.1109/TSM.2021.3083069)
 
 ### Link
